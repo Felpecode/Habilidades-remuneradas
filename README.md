@@ -217,6 +217,7 @@ Diferenciais da FDS
 ```
 #### Portifólio
 Por fim, a IA me ajudou a elaborar um portifólio com projetos, ideias e exemplos.
+```markdown
 Sobre Felipe Data Solutions:
 Felipe Data Solutions é uma empresa de consultoria estatística que transforma dados em decisões inteligentes. O foco está em aplicar estatística e automação em Python para otimizar processos e obter previsões confiáveis.
 
@@ -245,3 +246,9 @@ Exemplo: A estudante Ana precisava validar hipóteses em sua pesquisa de mestrad
 Oferece aulas de nível básico sobre a utilização de computadores e da internet a quem não tem acesso a essas informações
 Exemplo: O líder comunitário José pediu aulas básicas de informática para idosos da comunidade. Foram organizadas aulas sobre teclado, mouse, e-mail e internet. Depois do curso, os participantes já conseguiam acessar serviços online e conversar com familiares.
 
+Ideias Futuras
+- Aplicativo de Estatística para Pequenos Negócios: ferramenta simples para comerciantes locais registrarem vendas e obterem relatórios automáticos.
+- Estudos de Caso Locais: parcerias com pequenos negócios para mostrar como dados podem aumentar a eficiência
+- Sistema de Diagnóstico Rápido: solução leve que gera um placar de desempenho com base em vendas, gastos e clientes atendidos.
+
+```

@@ -216,8 +216,8 @@ Diferenciais da FDS
 - Conteúdo acessível tanto para iniciantes quanto para avançados.
 - Certificação reconhecida e possibilidade de parcerias locais.
 ```
-#### Portifólio
-Por fim, a IA me ajudou a elaborar um portifólio com projetos, ideias e exemplos.
+### Portifólio
+Ademais, a IA me ajudou a elaborar um portifólio com projetos, ideias e exemplos.
 ```markdown
 Sobre Felipe Data Solutions:
 Felipe Data Solutions é uma empresa de consultoria estatística que transforma dados em decisões inteligentes. O foco está em aplicar estatística e automação em Python para otimizar processos e obter previsões confiáveis.
@@ -252,4 +252,38 @@ Ideias Futuras
 - Estudos de Caso Locais: parcerias com pequenos negócios para mostrar como dados podem aumentar a eficiência
 - Sistema de Diagnóstico Rápido: solução leve que gera um placar de desempenho com base em vendas, gastos e clientes atendidos.
 
+```
+### Serviço em plataformas(Upwork)
+Por fim, a IA criou um texto a ser publicado no Upwork para o Felipe Data Solutions com base no Portifólio para aumentar o alcance da empresa, especialmente no espaço digital.
+```markdown
+Título do Serviço
+Consultoria Estatística e Automação em Python – Felipe Data Solutions
+
+Descrição
+Felipe Data Solutions ajuda empresas, pesquisadores e profissionais a transformar dados em decisões inteligentes.
+Serviços oferecidos:
+- Análise Estatística: estatística descritiva e inferencial aplicada a dados empresariais e acadêmicos.
+- Automação em Python: criação de scripts que reduzem tarefas repetitivas e geram relatórios automáticos.
+- Modelagem Preditiva: previsão de vendas, comportamento de clientes e tendências de mercado.
+- Consultoria Acadêmica: apoio em dissertações, artigos científicos e pesquisas com análises rigorosas.
+- Ensino Informático: aulas básicas de informática e internet para iniciantes.
+
+Diferenciais
+- Experiência prática em estatística aplicada a negócios reais.
+- Uso de Python para soluções rápidas e eficientes.
+- Relatórios claros e visuais para apoiar decisões estratégicas.
+- Atendimento personalizado e adaptado às necessidades do cliente.
+
+Exemplos de Projetos
+- Previsão de vendas para pequenos negócios.
+- Automação de relatórios semanais de desempenho.
+- Análise de campanhas de marketing digital.
+- Apoio estatístico em pesquisas acadêmicas.
+- Aulas de informática básica para comunidades.
+
+Como funciona
+- O cliente descreve sua necessidade.
+- É feita uma proposta personalizada com prazo e valor ajustados.
+- O projeto é desenvolvido com acompanhamento e suporte contínuo.
+- Entrega final com relatórios, scripts ou materiais conforme solicitado.
 ```

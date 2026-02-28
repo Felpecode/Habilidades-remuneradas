@@ -1,4 +1,5 @@
 # Habilidades remuneradas
+Esse projeto foi proposto no Desafio Caixa, na aula "Identificando suas Habilidades que Podem ser Remuneradas", que possibilitou uma auto-reflexão das minhas capacidades e uma percepção mais consciente de como minhas habilidades podem ser remuneradas.
 ## Etapa 1: Inventário de Habilidades
 ### Habilidades Técnicas
 - Codificação em Python
